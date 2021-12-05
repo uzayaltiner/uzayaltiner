@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Uzay Altıner</h1>
-<h3 align="center">I found my way. I'm learning to walk.</h3>
+<h3 align="center">I am Frontend Developer from İstanbul/Turkey</h3>
 
 - 🌱 I’m currently learning **ReactJS**
 
