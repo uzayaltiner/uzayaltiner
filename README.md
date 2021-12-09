@@ -2,7 +2,6 @@
 <h3 align="center">I am Frontend Developer from İstanbul/Turkey</h3>
 
 - 🌱 I’m currently learning **ReactJS**
-
 - 📫 Reach Me **uzayaltiner@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
