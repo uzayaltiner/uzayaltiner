@@ -4,8 +4,6 @@
 - 🌱 I’m currently learning **ReactJS**
 - 📫 Reach Me **uzayaltiner@gmail.com**
 
-![](https://komarev.com/ghpvc/?uzayaltiner=your-github-uzayaltiner)
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
