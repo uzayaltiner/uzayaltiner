@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Javascript and ReactJS**
 
-- 👯 I’m looking to collaborate on **Patika.dev**
-
 - 📫 Reach Me **uzayaltiner@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
