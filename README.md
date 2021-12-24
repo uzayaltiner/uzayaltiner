@@ -1,11 +1,13 @@
-<h1 align="center">Hi 👋, I'm Uzay Altıner</h1>
+<h1 align="center">Hi, I'm Uzay Altıner</h1>
 <h3 align="center">I'm a self-taught iOS Developer from Turkey</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=uzayaltiner&label=Profile%20views&color=6caad0&style=flat" alt="uzayaltiner" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=uzayaltiner&label=Profile%20views&color=00a8e0&style=flat" alt="uzayaltiner" /> </p>
 
-- 🌱 I’m currently learning **Swift, UIKit**
 - 🔭 I’m currently working on [100 Day of Swift Turkce](https://github.com/uzayaltiner/100-Days-of-Swift-Turkce)
-- 📫 How to reach me **uzayaltiner@gmail.com**
+
+- 🌱 I’m currently learning **Swift and UIKit.**
+
+- 💬 Ask me about anything **i am happy to help.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
