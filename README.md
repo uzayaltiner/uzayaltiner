@@ -9,6 +9,8 @@
 
 - 💬 Ask me about anything **i am happy to help.**
 
+- 📫 Reach me **uzayaltiner@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/uzayaltiner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="uzayaltiner" height="30" width="40" /></a>
