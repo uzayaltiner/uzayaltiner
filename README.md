@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Uzay Altıner</h1>
-<h3 align="center">I'm a self-taught iOS Developer from Turkey</h3>
+<h3 align="center">I'm an iOS Developer from Turkey</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=uzayaltiner&label=Profile%20views&color=00a8e0&style=flat" alt="uzayaltiner" /> </p>
 
