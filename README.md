@@ -11,7 +11,7 @@
 
 - 👨🏻‍💻 If you are new to iOS development, you can read this article. [100 Days of Swift Fundamentals Türkçe](https://github.com/uzayaltiner/100-Days-of-Swift-Turkce)
 
-- 💬 Ask me about **anything about UIkit.**
+- 💬 Ask me about **anything about Swift and iOS Development.**
 
 - 📫 How to reach me **uzayaltiner@gmail.com**
 
